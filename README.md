@@ -56,8 +56,5 @@ This repository documents my **26-week journey** to master the mindset, skills, 
 
 ## 📈 Visual Progress  
 
-**Badges**
-<img alt="Progress" src="https://img.shields.io/badge/Progress-0%25-lightgrey?style=for-the-badge">
+<img alt="Progress" src="https://img.shields.io/badge/Progress-5%25-lightgrey?style=for-the-badge">
 <img alt="Weeks Done" src="https://img.shields.io/badge/Weeks-0%2F26-lightgrey?style=for-the-badge">
-
-**ASCII Bar**
